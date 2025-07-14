@@ -5,6 +5,6 @@ Sou recrutadora técnica na [empresa], e estou com oportunidades incríveis para
 
 ## 💼 Vagas em aberto
 - **Tech Lead .NET** – Híbrido SP ou SJC | Azure, Terraform, CI/CD
-- **Flutter Developer Sr.** – Remoto | Skia, Riverpod, Dart
+- **Tech Lead Flutter** – Híbrido SP ou SJC | Skia, Riverpod, Dart
 
 📩 Se interessou? Fale comigo pelo LinkedIn: [linkedin.com/in/beatrizsanttos](https://linkedin.com/in/beatrizsanttos)
