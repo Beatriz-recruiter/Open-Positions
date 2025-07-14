@@ -7,4 +7,4 @@ Sou recrutadora técnica na [empresa], e estou com oportunidades incríveis para
 - **Tech Lead .NET** – Híbrido SP ou SJC | Azure, Terraform, CI/CD
 - **Tech Lead Flutter** – Híbrido SP ou SJC | Skia, Riverpod, Dart
 
-📩 Se interessou? Fale comigo pelo LinkedIn: (https://linkedin.com/in/beatrizsanttos)](https://www.linkedin.com/in/beatriz-oliveira-b1a16311a/)
+📩 Se interessou? Fale comigo pelo LinkedIn:(https://www.linkedin.com/in/beatriz-oliveira-b1a16311a/)
